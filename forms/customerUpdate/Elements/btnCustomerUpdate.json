@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnCustomerUpdate",
-  "left": 117,
+  "left": 34,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 395,
+  "top": 401,
   "value": "Update",
   "width": "auto"
 }
