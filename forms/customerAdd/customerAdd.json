@@ -16,7 +16,7 @@
         "forms",
         "customerAdd",
         "Elements",
-        "inptNewName.json"
+        "inptName.json"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "forms",
         "customerAdd",
         "Elements",
-        "inptNewAddress.json"
+        "inptAddress.json"
       ]
     },
     {
@@ -34,7 +34,7 @@
         "forms",
         "customerAdd",
         "Elements",
-        "inptNewCity.json"
+        "inptCity.json"
       ]
     },
     {
@@ -43,7 +43,7 @@
         "forms",
         "customerAdd",
         "Elements",
-        "inptNewState.json"
+        "inptState.json"
       ]
     },
     {
@@ -52,7 +52,7 @@
         "forms",
         "customerAdd",
         "Elements",
-        "inptNewZip.json"
+        "inptZipcode.json"
       ]
     },
     {
