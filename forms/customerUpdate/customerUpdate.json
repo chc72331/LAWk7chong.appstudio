@@ -54,6 +54,15 @@
         "Elements",
         "lblUpdateConfirmation.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerUpdate",
+        "Elements",
+        "btnBackUpd.json"
+      ]
     }
   ],
   "class": "",
