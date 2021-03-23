@@ -40,3 +40,7 @@ btnDelete.onclick = function() {
       lblMessage2.textContent = `Error: ${req.status}`
   }
 }
+
+btnBackDel.onclick=function(){
+  ChangeForm(homepage)
+}
