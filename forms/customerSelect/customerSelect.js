@@ -1,12 +1,3 @@
-// Global variables for database calls
-let req = {} // Indicates empty object
-let query = ""
-let results = []
-let pw = "ac@T!.........."  // put your database password here
-let netID = "chc72331"
-let allCustomerData = []
-
-
 customerSelect.onshow = function(){
   query = "SELECT * FROM customers"
   req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + netID + "&query=" + query)
