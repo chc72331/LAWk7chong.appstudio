@@ -32,3 +32,7 @@ btnCustomerUpdate.onclick = function() {
     }
   } // if 200
 }
+
+btnBackUpd.onclick=function(){
+  ChangeForm(homepage)
+}
