@@ -22,6 +22,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "homepage",
+            "homepage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "customerSelect",
             "customerSelect.json"
           ]
@@ -40,6 +48,14 @@
             "forms",
             "customerAdd",
             "customerAdd.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "customerUpdate",
+            "customerUpdate.json"
           ]
         }
       ],
@@ -62,7 +78,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "customerAdd",
+      "firstform": "homepage",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
