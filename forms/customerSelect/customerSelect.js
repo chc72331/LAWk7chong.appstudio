@@ -4,6 +4,7 @@ let query = ""
 let results = []
 let pw = "ac@T!.........."  // put your database password here
 let netID = "chc72331"
+let allCustomerData = []
 
 
 customerSelect.onshow = function(){
@@ -12,7 +13,7 @@ customerSelect.onshow = function(){
   
   if (req.status == 200) { //transit trip worked. 
         results = JSON.parse(req.responseText)
-        console.log(`The results are \n ${results}`)
+        //console.log(`The results are \n ${results}`) Uncomment to test connection
         if (results.length == 0)    
            lblMessage.value = "There are no customers in the database."
         else {        
