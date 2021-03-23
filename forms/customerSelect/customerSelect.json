@@ -27,6 +27,15 @@
         "Elements",
         "lblMessage.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerSelect",
+        "Elements",
+        "btnBackSel.json"
+      ]
     }
   ],
   "class": "",
