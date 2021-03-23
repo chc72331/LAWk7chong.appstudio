@@ -14,3 +14,7 @@ btnCustomerAdd.onclick = function() {
   } else
     lblAddConfirmation.textContent = "Error: " + req.status
 }
+
+btnBackAdd.onclick=function(){
+  
+}
