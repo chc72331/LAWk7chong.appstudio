@@ -27,6 +27,24 @@
         "Elements",
         "lblMessage2.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerDelete",
+        "Elements",
+        "btnDelete.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerDelete",
+        "Elements",
+        "inptCustomerDel.json"
+      ]
     }
   ],
   "class": "",
