@@ -45,6 +45,15 @@
         "Elements",
         "inptCustomerDel.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerDelete",
+        "Elements",
+        "btnBackDel.json"
+      ]
     }
   ],
   "class": "",
