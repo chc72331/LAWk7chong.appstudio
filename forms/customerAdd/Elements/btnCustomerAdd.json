@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnCustomerAdd",
-  "left": 34,
+  "left": 40,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 380,
+  "top": 404,
   "value": "Add",
   "width": "auto"
 }
