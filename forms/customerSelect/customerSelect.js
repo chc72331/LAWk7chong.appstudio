@@ -17,3 +17,6 @@ customerSelect.onshow = function(){
     } else   // the transit didn't work - bad wifi? server turned off?
         lblMessage.value = "Error code: " + req.status
 }
+btnBackSel.onclick=function(){
+  ChangeForm(homepage)
+}
